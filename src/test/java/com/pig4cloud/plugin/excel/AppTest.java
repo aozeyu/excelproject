@@ -1,4 +1,4 @@
-package org.example;
+package com.pig4cloud.plugin.excel;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
